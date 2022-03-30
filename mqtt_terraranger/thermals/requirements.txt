@@ -1,0 +1,7 @@
+pyserial~=3.5
+crcmod~=1.7
+opencv-contrib-python
+Pillow~=9.0.1
+
+paho-mqtt~=1.6.1
+numpy~=1.22.3
